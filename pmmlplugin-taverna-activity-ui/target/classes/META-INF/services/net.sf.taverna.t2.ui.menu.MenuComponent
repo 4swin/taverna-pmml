@@ -1,0 +1,3 @@
+edu.manchester.cs.pmmlplugin.taverna.ui.menu.PmmlPluginConfigureMenuAction
+edu.manchester.cs.pmmlplugin.taverna.ui.menu.PmmlScoreLocalConfigureMenuAction
+edu.manchester.cs.pmmlplugin.taverna.ui.menu.PmmlScoreRemoteConfigureMenuAction

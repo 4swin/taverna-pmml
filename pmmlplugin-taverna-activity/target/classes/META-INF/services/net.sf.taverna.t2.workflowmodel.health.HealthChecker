@@ -1,0 +1,3 @@
+edu.manchester.cs.pmmlplugin.taverna.PmmlPluginActivityHealthChecker
+edu.manchester.cs.pmmlplugin.taverna.PmmlScoreLocalActivityHealthChecker
+edu.manchester.cs.pmmlplugin.taverna.PmmlScoreRemoteActivityHealthChecker
